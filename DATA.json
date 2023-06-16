@@ -14,24 +14,24 @@
 
     "startapp_id": "139480955",
 
-    "show_cpa": true,
+    "show_cpa": false,
     "cpa_image": "https://i.top4top.io/p_27239gybc1.png",
     "cpa_url": "https://i.top4top.io/p_27239gybc1.png",
     "cpa_button_text": "winter vibes"
   
     
 
-    "Image_cpaLink" : "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "Image_cpaLink" : "https://i.top4top.io/p_27239gybc1.png",
     "LinkCpa": "https://www.google.com/",
 
-    "ImageUrl_banner": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "ImageUrl_banner": "https://i.top4top.io/p_27239gybc1.png",
     "LinkCpa_banner": "https://www.google.com/",
-    "ImageUrl_banner1": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "ImageUrl_banner1": "https://i.top4top.io/p_27239gybc1.png",
     "LinkCpa_banner1": "https://www.google.com/",
-    "ImageUrl_banner2": "https://bucket.cpabuild.com/b/1.gif?fbclid=IwAR2LX-rRwi-cVzzxU5UgPaHeTlf_kFBSEWS7x3mOHSqNwOEAx9UMCm_yjSg",
+    "ImageUrl_banner2": "https://i.top4top.io/p_27239gybc1.png",
     "LinkCpa_banner2": "https://www.google.com/",
 
-    "Image_exit": "https://i.ibb.co/xMSp8M1/INTRERTEST.jpg",
+    "Image_exit": "https://i.top4top.io/p_27239gybc1.png",
     "link_exit": "https://www.google.com/",
 
     "privacy" : "https://policies.google.com/privacy?hl=en-US",
@@ -64,7 +64,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : "true",
+    "CpaAds" : "false",
 
     "Click_inter": "0"
 

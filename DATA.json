@@ -2,7 +2,7 @@
   "ADS": {
 
 
-    "networkAd": "00",
+    "networkAd": "xx",
    
     "Banner_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -15,9 +15,9 @@
     "startapp_id": "139480955",
 
     "show_cpa": false,
-    "cpa_image": "https://i.top4top.io/p_27239gybc1.png",
+    "cpa_image": "https://wordpresscdn.winzogames.com/prod/blog/wp-content/uploads/2022/01/31105343/Freefire-diamonds.jpg",
     "cpa_url": "https://fr.uoldown.com/android/free-fire-hack-diamond-and-coins/download",
-    "cpa_button_text": "winter vibes"
+    "cpa_button_text": "Get It Now!",
   
     
 
@@ -38,9 +38,9 @@
     "url_exit": "https://www.google.com/",
     "url_bottom_coins": "https://www.google.com/",
 
-    "Text_tips1": "A Winter Wonderland: Capture the beauty of a snowy landscape with human figures, creating a mesmerizing scene reminiscent of a fairytale",
-    "Text_tips2": "Winter Adventure Travel: Show adventurers embarking on thrilling winter expeditions, such as hiking through snowy trails or conquering icy peaks, with human figures adding a sense of scale and awe",
-    "Text_tips3": "Outdoor Winter Sports: Highlight the adrenaline and excitement of winter sports like skiing, snowboarding, or ice skating, with human subjects in action-packed poses",
+    "Text_tips1": "Welcome Test Badr",
+    "Text_tips2": "Welcome Test Badr2",
+    "Text_tips3": "Welcome Test Badr3",
     "Text_tips4": "Welcome Test Badr4",
     "Text_tips5": "Welcome Test Badr5",
     "Text_tips6": "Welcome Test Badr6",
@@ -48,9 +48,9 @@
     "Text_tips8": "Welcome Test Badr8",
 
 
-    "Text_title1": "Winter Vibes: Capture the Season",
-    "Text_title2": "Frozen Frames: Winter Moments App",
-    "Text_title3": "Winter Magic: Freeze the Moment",
+    "Text_title1": "Test Badr",
+    "Text_title2": "Test Badr2",
+    "Text_title3": "Test Badr3",
     "Text_title4": "Test Badr4",
     "Text_title5": "Test Badr5",
     "Text_title6": "Test Badr6",
@@ -64,7 +64,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : false,
+    "CpaAds" : "True",
 
     "Click_inter": "0"
 

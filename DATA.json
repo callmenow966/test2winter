@@ -14,7 +14,7 @@
 
     "startapp_id": "139480955",
 
-    "show_cpa": show,
+    "show_cpa" : true ,
     "cpa_image": "https://f.top4top.io/p_2728q66941.png",
     "cpa_url": "https://wwww.google.com",
     "cpa_button_text": "Get It Now!",
@@ -65,7 +65,7 @@
     "Text_buttonplus" : "+ 18",
 
 
-    "CpaAds" : false,
+    "CpaAds" : true,
 
     "Click_inter": "0"
 

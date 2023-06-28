@@ -8,11 +8,11 @@
     "Interstitial_idF": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Native_facebook" : "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
 
-    "inter_max": "37c0fd7e2939a3be",
-    "max_banner": "13482be8f771efc7",
-    "Native_max": "76d87171404718ed",
+    "inter_max": "",
+    "max_banner": "",
+    "Native_max": "",
 
-    "startapp_id": "139480955",
+    "startapp_id": "",
 
     "show_cpa" : false ,
     "cpa_image": "https://f.top4top.io/p_2728q66941.png",
@@ -38,24 +38,24 @@
     "url_exit": "",
     "url_bottom_coins": "",
 
-    "Text_tips1": "A Winter Wonderland: Capture the beauty of a snowy landscape with human figures, creating a mesmerizing scene reminiscent of a fairytale",
-    "Text_tips2": "Winter Adventure Travel: Show adventurers embarking on thrilling winter expeditions, such as hiking through snowy trails or conquering icy peaks, with human figures adding a sense of scale and awe",
-    "Text_tips3": "Outdoor Winter Sports: Highlight the adrenaline and excitement of winter sports like skiing, snowboarding, or ice skating, with human subjects in action-packed poses",
-    "Text_tips4": "Discover the latest winter fashion trends and create stylish winter outfits with Frosty Fashionista, the go-to app for winter vibes season.",
-    "Text_tips5": "Embark on thrilling icy adventures and explore breathtaking winter destinations with Icy Adventures, the must-have app for the winter vibes season",
-    "Text_tips6": " From comforting hot chocolate to hearty soups, find the most delicious winter treats and recipes with Winter Wonderland Eats, your go-to app for the winter vibes season",
-    "Text_tips7": "Get ready for epic snowball fights and exciting winter games with Snowball Showdown, the ultimate app for endless fun during the winter vibes season",
-    "Text_tips8": "Dive into a world of soothing winter melodies and create your own winter-themed playlists with Arctic Melodies, the app that sets the tone for the winter vibes season.",
+    "Text_tips1": "A Winter Wonderland",
+    "Text_tips2": "Winter Adventure Travel",
+    "Text_tips3": "Outdoor Winter Sports",
+    "Text_tips4": "Discover the  winter  ",
+    "Text_tips5": "the winter vibes season",
+    "Text_tips6": "for the winter vibes season",
+    "Text_tips7": "exciting winter vibes season",
+    "Text_tips8": "the app for the winter vibes season.",
 
 
-    "Text_title1": "Winter Vibes: Capture the Season",
-    "Text_title2": "Frozen Frames: Winter Moments App",
-    "Text_title3": "Winter Magic: Freeze the Moment",
-    "Text_title4": "Title: Arctic Melodies",
-    "Text_title5": "Title: Snowball Showdown",
+    "Text_title1": "Winter Vibes",
+    "Text_title2": "Winter Moments App",
+    "Text_title3": "Freeze the Moment",
+    "Text_title4": "Arctic Melodies",
+    "Text_title5": "Snowball Showdown",
     "Text_title6": "Winter Wonderland Eats",
-    "Text_title7": "Title: Fireside Tales",
-    "Text_title8": "Cozy Cold Weather",
+    "Text_title7": "Fireside Tales",
+    "Text_title8": "Cold Weather",
 
 
 
